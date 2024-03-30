@@ -29,7 +29,7 @@ A PHP-based tool for scraping answers from Chegg. This tool provides an interfac
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/php-chegg-answer-scraper.git
+   git clone [https://github.com/YourUsername/php-chegg-answer-scraper.git](https://github.com/Mustkeem324/PHP-Chegg-Answer-Scraper/)
    ```
 
 2. Navigate to the project directory:
