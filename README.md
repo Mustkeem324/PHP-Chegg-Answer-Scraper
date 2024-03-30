@@ -4,7 +4,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Mustkeem324/PHP-Chegg-Answer-Scraper)
 ![GitHub stars](https://img.shields.io/github/stars/Mustkeem324/PHP-Chegg-Answer-Scraper?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Mustkeem324/PHP-Chegg-Answer-Scraper?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/Mustkee54967794)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Mustkee54967794?style=social)](https://twitter.com/Mustkee54967794)
 
 A PHP-based tool for scraping answers from Chegg. This tool provides an interface to interact with Chegg's resources, enabling users to retrieve answers for educational purposes.
 
