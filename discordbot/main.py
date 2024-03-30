@@ -80,8 +80,8 @@ def upload_to_s3(file_answer):
   s3 = boto3.client(
       's3',
       region_name='us-east-1',
-      aws_access_key_id='AKIAWU5JKPD6RSRHV3J4',
-      aws_secret_access_key='L1OGcR4tsguWMd6Au5woA9Plj5uaqn99gmhxt9uR',
+      aws_access_key_id='Yourkey_id',
+      aws_secret_access_key='your access key',
       config=boto3.session.Config(signature_version='s3v4'))
 
   bucket_name = 'supernova558866'
