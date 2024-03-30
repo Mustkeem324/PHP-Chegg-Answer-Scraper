@@ -1,7 +1,7 @@
 # PHP Chegg Answer Scraper
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YourUsername/php-chegg-answer-scraper)
-![GitHub contributors](https://img.shields.io/github/contributors/YourUsername/php-chegg-answer-scraper)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mustkeem324/PHP-Chegg-Answer-Scraper)
+![GitHub contributors](https://img.shields.io/github/contributors/Mustkeem324/PHP-Chegg-Answer-Scraper)
 ![GitHub stars](https://img.shields.io/github/stars/YourUsername/php-chegg-answer-scraper?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/YourUsername/php-chegg-answer-scraper?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
